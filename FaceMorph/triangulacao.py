@@ -53,7 +53,7 @@ if __name__ == '__main__':
     points_color = (0, 0, 255)
 
     # Read in the image.
-    img = cv2.imread("bonoro.jpg");
+    img = cv2.imread("yuri.jpg");
     
     # Rectangle to be used with Subdiv2D
     size = img.shape
@@ -66,7 +66,7 @@ if __name__ == '__main__':
     points = [];
     
     # Read in the points from a text file
-    with open("bonoro.jpg.txt") as file :
+    with open("yuri.jpg.txt") as file :
         for line in file :
             x, y = line.split()
             points.append((int(x), int(y)))
@@ -87,4 +87,5 @@ if __name__ == '__main__':
     # Show results
     cv2.imshow(win_delaunay,img)
     cv2.waitKey(0)
+    cv2.imwrite('Yuri_triangulacao.jpg',img) 
 
