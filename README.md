@@ -15,3 +15,9 @@ http://repositorio.roca.utfpr.edu.br/jspui/bitstream/1/4915/1/CM_ESPMAT_III_2013
 http://www.professores.uff.br/jcolombo/wp-content/uploads/sites/124/2018/08/Algebra_Linear_com_Aplica_10_-Edi_Anton_Rorres.pdf (pag 700)
 
 https://github.com/gustavofrizzo/ParallelMorphing
+
+https://livecodestream.dev/post/2020-07-03-detecting-face-features-with-python/
+
+https://www.learnopencv.com/face-morph-using-opencv-cpp-python/
+
+https://www.learnopencv.com/delaunay-triangulation-and-voronoi-diagram-using-opencv-c-python/
